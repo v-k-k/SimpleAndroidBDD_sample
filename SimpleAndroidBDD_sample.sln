@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAndroidBDD_sample", "SimpleAndroidBDD_sample.csproj", "{592B2EFC-45BE-452B-BDF4-B737BF8888DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592B2EFC-45BE-452B-BDF4-B737BF8888DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B2EFC-45BE-452B-BDF4-B737BF8888DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B2EFC-45BE-452B-BDF4-B737BF8888DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B2EFC-45BE-452B-BDF4-B737BF8888DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228EECA3-E721-4CAF-8CBF-3AE05100945B}
+	EndGlobalSection
+EndGlobal
